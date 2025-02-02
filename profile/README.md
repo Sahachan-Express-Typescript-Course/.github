@@ -9,8 +9,8 @@ Chapter:
 - [Chapter 4: Backend Project Basic Structure](https://github.com/Sahachan-Express-Typescript-Course/express-typescript-chapter-4)
 - [Chapter 5: Database](https://github.com/Sahachan-Express-Typescript-Course/express-typescript-chapter-5)
 - [Chapter 6: Object-relational mapping - ORM](https://github.com/Sahachan-Express-Typescript-Course/express-typescript-chapter-6)
-- [Chapter 7: Deployment]()
-- [Chapter 8: Backend Security and Media]()
+- [Chapter 7: Deployment](https://github.com/Sahachan-Express-Typescript-Course/express-typescript-chapter-7)
+- [Chapter 8: Backend Security and Media](https://github.com/Sahachan-Express-Typescript-Course/express-typescript-chapter-8)
 
 Workshop:
 - [Workshop 1: movie project with typescript](https://github.com/Sahachan-Express-Typescript-Course/express-typescript-workshop-1)
